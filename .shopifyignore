@@ -1,0 +1,4 @@
+config/*_secret.json
+ *.jpg
+config/settings_data.json
+ *.json
